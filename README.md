@@ -1,7 +1,9 @@
 # CPU-Verilog-Pipeline
 XJTU  COMP461805 CPU（Verilog）流水线实现
 
-本仓库为西安交通大学2025秋季学期**计算机试验班**，**计算机组成原理**课程大作业，基于Verilog的指令集CPU实现，包括**单周期、多周期以及流水线**三种结构，对应到本仓库的3个分支：main、multi_cycle、pipeline。本分支为**流水线CPU**的实现。
+本仓库为西安交通大学2025秋季学期**计算机试验班**，**计算机组成原理**课程大作业，基于Verilog的指令集CPU实现，包括**单周期、多周期以及流水线**三种结构，对应到本仓库的3个分支：main、multi_cycle、pipeline。
+
+本分支为**流水线CPU**的实现。
 
 本仓库的完成人为：
 - 计试2301，[李奕博](https://github.com/YiboLi-4110)
